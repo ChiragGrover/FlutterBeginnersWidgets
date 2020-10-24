@@ -1,20 +1,9 @@
-# flutter_app
-
-A new Flutter application.
+# #FlutterBegineersWidgets
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with all basic widgets.
 
-A few resources to get you started if this is your first Flutter project:
+##Lets start playing with Flutter Widets 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-Lets start Doing Flutter 
-### Try with online [Dart Pad] (https://dartpad.dev/2c7a16026c5f100db5e2fde2bd94d4fc)
+### Try Text widget with Online [Dart Pad](https://dartpad.dev/bd6bb228f0be205648a74490f35f776f)
