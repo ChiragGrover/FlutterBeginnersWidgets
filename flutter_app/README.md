@@ -1,16 +1,36 @@
-# flutter_app
-
-A new Flutter application.
+# #FlutterBegineersWidgets
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with all basic widgets.
 
-A few resources to get you started if this is your first Flutter project:
+## Lets start playing with Flutter Widets 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Try Text widget with Online [Dart Pad](https://dartpad.dev/bd6bb228f0be205648a74490f35f776f)
+<table>
+  <tr><td> <b>Play with Text properties and styles</b> </td></tr>
+  <tr>
+<td>
+  <pre> 
+  Text(
+          "Hello Flutter It is Awesome WOW",
+          textAlign: TextAlign.right,
+          textDirection: TextDirection.ltr,
+          overflow: TextOverflow.ellipsis,
+          maxLines: 2,
+          style: TextStyle(
+              color: Colors.black,
+              fontSize: 50.0,
+              fontWeight: FontWeight.w200,
+              letterSpacing: 2.0,
+              wordSpacing: 40.0,
+              decoration: TextDecoration.overline,
+              decorationStyle: TextDecorationStyle.wavy),
+        ), 
+        </pre>
+</td>
+<td>
+  <img src = "https://github-bucket-2604.s3.us-east-2.amazonaws.com/Screenshot+2020-04-21+at+05.53.51.png" width = 200>
+</td>
+</tr>
+  </table>
