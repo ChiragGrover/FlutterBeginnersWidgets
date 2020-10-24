@@ -6,7 +6,7 @@ This project is a starting point for a Flutter application with all basic widget
 
 ## Lets start playing with Flutter Widets 
 
-### Try Text widget with Online [Dart Pad](https://dartpad.dev/bd6bb228f0be205648a74490f35f776f)
+### Try Text widget with Online [Dart Pad](https://dartpad.dev/2f15024a612804c1875a3da85d054cba)
 <table>
   <tr><td> <b>Play with Text properties and styles</b> </td></tr>
   <tr>
