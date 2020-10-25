@@ -30,7 +30,7 @@ This project is a starting point for a Flutter application with all basic widget
         </pre>
 </td>
 <td>
-  <img src = "https://github-bucket-2604.s3.us-east-2.amazonaws.com/Screenshot+2020-04-21+at+05.53.51.png" width = 200>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/text/Screenshot+2020-10-24+at+8.54.21+PM.png" width = 200>
 </td>
 </tr>
   </table>
