@@ -150,7 +150,5 @@
 </td>
 </tr>
   </table>
-  
-   ### Learn More [Flutter Widgets](https://api.flutter.dev/flutter/widgets/widgets-library.html)
    
-   ## Stay Tuned and Watch to the FlutterBeginnersWidgets
+   ## Stay Tuned and Watch to the FlutterBeginnersWidgets for more widgets 🙂
