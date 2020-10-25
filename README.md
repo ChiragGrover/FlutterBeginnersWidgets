@@ -2,7 +2,9 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application with all basic widgets.
+#### This project is a starting point for a Flutter application with all basic widgets.
+
+## You can download and run project on your system and if you don't want to run it on your system then you can use the online DartPad to run the project.
 
 ## Lets start playing with Flutter Widets 
 
