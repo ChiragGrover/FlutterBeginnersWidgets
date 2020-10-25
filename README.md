@@ -28,14 +28,15 @@ This project is a starting point for a Flutter application with all basic widget
         ), 
         </pre>
 </td>
+
+ <td>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/text/Screenshot+2020-10-25+at+12.03.48+PM.png" width = 300>
+</td>
+ <td>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/text/Screenshot+2020-10-25+at+12.03.17+PM.png" width = 300>
+</td>
 <td>
-  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/text/Screenshot+2020-10-24+at+8.54.21+PM.pngs" width = 300>
-</td>
-    <td>
-  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/text/Screenshot+2020-10-24+at+8.54.21+PM.pngs" width = 300>
-</td>
-        <td>
-  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/text/Screenshot+2020-10-24+at+8.54.21+PM.pngs" width = 300>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/text/Screenshot+2020-10-24+at+8.54.21+PM.png" width = 300>
 </td>
 </tr>
   </table>
@@ -69,7 +70,7 @@ This project is a starting point for a Flutter application with all basic widget
         </pre>
 </td>
 <td>
-  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/row/Screenshot+2020-10-25+at+3.20.42+PM.pngs" width = 300>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/row/Screenshot+2020-10-25+at+3.20.42+PM.png" width = 300>
 </td>
 </tr>
   </table>
@@ -100,7 +101,7 @@ This project is a starting point for a Flutter application with all basic widget
         </pre>
 </td>
 <td>
-  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/column/Screenshot+2020-10-25+at+5.25.11+PM.pngs" width = 300>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/column/Screenshot+2020-10-25+at+5.25.11+PM.png" width = 300>
 </td>
 </tr>
   </table>
@@ -140,18 +141,14 @@ This project is a starting point for a Flutter application with all basic widget
         </pre>
 </td>
 <td>
-  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/appBar/Screenshot+2020-10-25+at+7.32.45+PM.pngs" width = 300>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/appBar/Screenshot+2020-10-25+at+7.32.45+PM.png" width = 300>
 </td>
 <td>
-  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/appBar/Screenshot+2020-10-25+at+7.50.07+PM.pngs" width = 300>
+  <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/appBar/Screenshot+2020-10-25+at+7.50.07+PM.png" width = 300>
 </td>
 </tr>
   </table>
   
    ### Learn More [Flutter Widgets](https://api.flutter.dev/flutter/widgets/widgets-library.html)
-<table>
-    <tr><td> </b> </td></tr>
-  <tr>
-  
-</tr>
-  </table>
+   
+   ## Stay Tuned and Watch to the FlutterBeginnersWidgets
