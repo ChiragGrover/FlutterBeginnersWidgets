@@ -42,7 +42,7 @@ This project is a starting point for a Flutter application with all basic widget
   
   ### Try Row widget with Online [Dart Pad](https://dartpad.dev/2f15024a612804c1875a3da85d054cba)
 <table>
-    <tr><td> <b>Row displays it children in horizontal line</b> </td></tr>
+    <tr><td> <b>Row displays its children in horizontal line</b> </td></tr>
     <tr><td> <b>To fill all available horizontal space, wrap the child with Expanded widget</b> </td></tr>
   <tr>
 <td>
@@ -76,7 +76,7 @@ This project is a starting point for a Flutter application with all basic widget
   
   ### Try Column widget with Online [Dart Pad](https://dartpad.dev/2f15024a612804c1875a3da85d054cba)
 <table>
-    <tr><td> <b>Column displays it children in vertical line</b> </td></tr>
+    <tr><td> <b>Column displays its children in vertical line</b> </td></tr>
     <tr><td> <b>To fill all available vertical space, wrap the child with Expanded widget</b> </td></tr>
   <tr>
 <td>
@@ -145,5 +145,13 @@ This project is a starting point for a Flutter application with all basic widget
 <td>
   <img src = "https://flutterbegineerswidgets.s3-us-west-2.amazonaws.com/appBar/Screenshot+2020-10-25+at+7.50.07+PM.pngs" width = 300>
 </td>
+</tr>
+  </table>
+  
+   ### Learn More [Flutter Widgets](https://api.flutter.dev/flutter/widgets/widgets-library.html)
+<table>
+    <tr><td> </b> </td></tr>
+  <tr>
+  
 </tr>
   </table>
