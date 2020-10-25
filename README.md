@@ -22,8 +22,8 @@ This project is a starting point for a Flutter application with all basic widget
               fontSize: 50.0,
               fontWeight: FontWeight.w200,
               letterSpacing: 2.0,
-              wordSpacing: 40.0,
-              decoration: TextDecoration.overline,
+              wordSpacing: 20.0,
+              decoration: TextDecoration.underline,
               decorationStyle: TextDecorationStyle.wavy),
         ), 
         </pre>
